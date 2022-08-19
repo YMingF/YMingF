@@ -10,14 +10,18 @@
       <!--      表头-->
       <tr>
         <th><a href="#" target="_blank">公众号</a></th>
-        <th><a href="#" target="_blank">知乎</a></th>
         <th><a href="#" target="_blank">掘金</a></th>
       </tr>
       <!--      具体内容-->
       <tr>
-        <td>公众号图</td>
-        <td>知乎图标</td>
-        <td>掘金图标</td>
+        <td>
+        
+        </td>
+        <td>
+          <a href="https://juejin.cn/user/3334147403687870" target="_blank">
+            <img src="./src/images/juejin.png" alt="掘金">
+          </a>
+        </td>
       </tr>
 
 </table>
