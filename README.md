@@ -10,11 +10,12 @@
       <!--      表头-->
       <tr>
         <th><a href="#" target="_blank">公众号</a></th>
-        <th><a href="#" target="_blank">掘金</a></th>
+        <th><a href="https://juejin.cn/user/3334147403687870" target="_blank">掘金</a></th>
       </tr>
       <!--      具体内容-->
       <tr>
         <td>
+            <img src="./src/images/gonghao.jpg" alt="公众号">
         </td>
         <td>
           <a href="https://juejin.cn/user/3334147403687870" target="_blank">
