@@ -11,6 +11,7 @@
       <tr>
         <th><a href="#" target="_blank">公众号</a></th>
         <th><a href="https://juejin.cn/user/3334147403687870" target="_blank">掘金</a></th>
+        <th><a href="https://www.wolai.com/5JXmXWpsTJ8Rj7LA31n9cC" target="_blank">wolai</a></th>
       </tr>
       <!--      具体内容-->
       <tr>
@@ -20,6 +21,11 @@
         <td>
           <a href="https://juejin.cn/user/3334147403687870" target="_blank">
             <img src="./src/images/juejin.png" alt="掘金">
+          </a>
+        </td>
+        <td>
+          <a href="https://www.wolai.com/5JXmXWpsTJ8Rj7LA31n9cC" target="_blank">
+            <img src="./src/images/wolai.png" alt="wolai">
           </a>
         </td>
       </tr>
